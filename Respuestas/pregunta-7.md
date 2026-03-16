@@ -1,0 +1,1 @@
+db.libros.CreateIndex({categoria:1, anio:1})
